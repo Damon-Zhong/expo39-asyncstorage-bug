@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testAsyncStorage",
-    "slug": "testAsyncStorage",
+    "name": "testAsyncStorage2",
+    "slug": "testasyncstorage2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
